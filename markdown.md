@@ -2,6 +2,9 @@
 
 ## New Azure Express Route Circuit Object
 
+%CustomerName%
+%OrderDate%
+
 A new express route circuit object will be configured in Azure. This
 will generate a "Key" which in turn can be passed to Colt to provision
 the core express route circuit.
