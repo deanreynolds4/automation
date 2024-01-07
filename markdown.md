@@ -24,7 +24,7 @@ the core express route circuit.
 
   SKU                  Standard
 
-  Bandwidth            %Express_Route_Speed%
+  Bandwidth            %CustomerName%
 
   Billing Model        Unlimited
 
